@@ -1,3 +1,6 @@
+Link To WireGuard webSite
+https://www.wireguard.com/install/
+
 # WireGuard-.Docker.txt
 WInstall wg-easy
 
@@ -39,4 +42,5 @@ Auto Update
 
 If you want to enable auto-updates, follow the instructions here: Auto Updates
 
-© Wireguard EasyireGuard .Docker
+Link To WireGuard webSitr
+https://www.wireguard.com/install/
